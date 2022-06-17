@@ -4,7 +4,13 @@
 **segungreat/segungreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
+👋 I’m Segun Olateju
+🌱 I’m a fullstack (backend and frontend) web developer
+🌱 I'm also a mobile app developer
+🌱 My frontend stacks are HTML, CSS, Javascript, ReactJS, VueJS, Bootstrap, Tailwind CSS
+🌱 My backend stacks are PHP, Laravel, NodeJS, AdonisJS.
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
