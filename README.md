@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A fullstack web developer and mobile app developer.
 ---------------------------------------------------
 
-I have 6 years experience in web development. Started with WordPress. Then to PHP. Currently I use @laravel for web development. Apart from HTML and CSS which are basics, I do use JavaScript and typescript for frontend design. I also use ReactJS and VueJs. I have deep knowledge of Bootstrap CSS, Tailwind CSS.. I design and build mobile apps using flutter framework. Currently learning Python, web3...
+I have 6 years experience in web development. Started with WordPress. Then to PHP. Currently I use @laravel for web development. Apart from HTML and CSS which are basics, I do use JavaScript and typescript for frontend design. I also use ReactJS and VueJs. I have deep knowledge of Bootstrap CSS, Tailwind CSS.. I design and build mobile apps using flutter framework. Currently learning Go, Python, web3...
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [segungreatng@gmail.com](mailto:segungreatng@gmail.com)
