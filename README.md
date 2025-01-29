@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A fullstack web developer and mobile app developer.
 ---------------------------------------------------
 
-I have 6 years experience in web development. Started with WordPress. Then to PHP. Currently I use @laravel for web development. Apart from HTML and CSS which are basics, I do use JavaScript and typescript for frontend design. I also use ReactJS and VueJs. I have deep knowledge of Bootstrap CSS, Tailwind CSS.. I design and build mobile apps using flutter framework. Currently learning Go, Python, web3...
+With 6 years of web and mobile development experience, I've built a diverse technical portfolio. I specialize in Flutter development, implementing complex state management solutions using Provider and Riverpod, and creating highly performant, scalable mobile applications. I have deep expertise in structuring Flutter projects for maintainability and following best practices for state management patterns.
+My web development journey started with WordPress, progressing to PHP and Laravel for robust backend solutions. On the frontend, beyond HTML and CSS fundamentals, I work extensively with JavaScript, TypeScript, ReactJS, and VueJS. I have comprehensive knowledge of modern CSS frameworks including Bootstrap and Tailwind CSS.
+My strong foundation in both mobile and web development allows me to build full-stack solutions that leverage Flutter's cross-platform capabilities alongside web technologies. Currently expanding my skill set with Go, Python, and Web3 technologies while staying current with Flutter's evolving ecosystem...
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [segungreatng@gmail.com](mailto:segungreatng@gmail.com)
