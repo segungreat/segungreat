@@ -46,4 +46,6 @@ My strong foundation in both mobile and web development allows me to build full-
   <a href="https://www.twitter.com/segun_great" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
+<a ><img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="ali"/></a>
+
 ### Badges
