@@ -51,13 +51,13 @@ My strong foundation in both mobile and web development allows me to build full-
 ### Badges
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokeihub&show_icons=true&locale=en&layout=compact" alt="gokeihub" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=segungreat&show_icons=true&locale=en&layout=compact" alt="segungreat" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gokeihub&show_icons=true&locale=en" alt="gokeihub" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=segungreat&show_icons=true&locale=en" alt="segungreat" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokeihub&" alt="gokeihub" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=segungreat&" alt="segungreat" />
 </p>
