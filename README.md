@@ -49,3 +49,15 @@ My strong foundation in both mobile and web development allows me to build full-
 <a ><img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="ali"/></a>
 
 ### Badges
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokeihub&show_icons=true&locale=en&layout=compact" alt="gokeihub" />
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gokeihub&show_icons=true&locale=en" alt="gokeihub" />
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokeihub&" alt="gokeihub" />
+</p>
